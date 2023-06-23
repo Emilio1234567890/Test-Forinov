@@ -1,0 +1,14 @@
+.progressbar{
+  width: 50%;
+  
+  border: solid black 1px;
+  
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
